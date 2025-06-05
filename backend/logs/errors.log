@@ -1,0 +1,88 @@
+2025-05-29T05:07:37.033Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-30T09:32:25.741Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:24:08.910Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:24:46.144Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:27:27.676Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:29:34.445Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:31:18.818Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+2025-05-31T08:31:23.789Z - Uncaught Exception: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1939:16)
+    at listenInCluster (node:net:1996:12)
+    at Server.listen (node:net:2101:7)
+    at Object.<anonymous> (C:\Users\priya\Desktop\project\backend\src\index.ts:135:12)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Module.m._compile (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1618:23)
+    at node:internal/modules/cjs/loader:1895:10
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\priya\Desktop\project\backend\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
